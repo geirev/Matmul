@@ -1,0 +1,22 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+A	main.F90	/^   real A(/;"	v	program:main
+R1	main.F90	/^   real R1(/;"	v	program:main
+R2	main.F90	/^   real R2(/;"	v	program:main
+S	main.F90	/^   real S(/;"	v	program:main
+cpu0	main.F90	/^   real start,finish,cpu0,/;"	v	program:main
+cpu1	main.F90	/^   real start,finish,cpu0,cpu1$/;"	v	program:main
+finish	main.F90	/^   real start,finish,/;"	v	program:main
+i	main.F90	/^   in/;"	v	program:main
+j	main.F90	/^   integer i,j$/;"	v	program:main
+main	main.F90	/^program main$/;"	p
+ndim	main.F90	/^   integer, parameter :: ndim=/;"	v	program:main
+nrens	main.F90	/^   integer, parameter :: nrens=/;"	v	program:main
+nrobs	main.F90	/^   integer, parameter :: nrobs=/;"	v	program:main
+res	main.F90	/^   real res$/;"	v	program:main
+start	main.F90	/^   real start,/;"	v	program:main
+wtime	main.F90	/^    function wtime /;"	f	program:main
